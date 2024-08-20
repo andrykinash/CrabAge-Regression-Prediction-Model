@@ -45,8 +45,8 @@ The comparison among the different regression methods reveals that while SGD and
 
 To better understand the performance, visualizations such as cost history plots and MSE bar charts were generated to illustrate the results of each method:
 
-- ![Screenshot (1683)](https://github.com/user-attachments/assets/ccce4e38-563c-46cb-802e-0d4df7f6763d)
-- ![Screenshot (1680)](https://github.com/user-attachments/assets/a202d1ba-690b-4b08-8977-e4156e7ac1e3)
-- ![Screenshot (1686)](https://github.com/user-attachments/assets/2238c3ed-f58f-4d90-acd1-e5cc274398ea)
+![Screenshot (1683)](https://github.com/user-attachments/assets/ccce4e38-563c-46cb-802e-0d4df7f6763d)
+![Screenshot (1680)](https://github.com/user-attachments/assets/b22f5766-c9a2-4d39-8a87-7326ced27dfe)
+![Screenshot (1686)](https://github.com/user-attachments/assets/2238c3ed-f58f-4d90-acd1-e5cc274398ea)
 
 
